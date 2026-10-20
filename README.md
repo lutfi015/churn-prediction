@@ -98,7 +98,7 @@ churn-prediction/
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/USERNAME_KAMU/churn-prediction.git
+   git clone https://github.com/usernamenya samain aja bos/churn-prediction.git
    cd churn-prediction
    ```
 
