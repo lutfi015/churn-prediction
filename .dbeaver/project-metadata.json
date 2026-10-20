@@ -1,0 +1,1 @@
+{"resources":{"Scripts/01_setup_and_churn_prep.sql":{"default-datasource":"postgres-jdbc-1a15853471b-6a5f92892a6df2d5","default-catalog":"postgres","default-schema":"public"},"Scripts/02_churn_query.sql":{"default-datasource":"postgres-jdbc-1a15853471b-6a5f92892a6df2d5","default-catalog":"postgres","default-schema":"public"}}}
